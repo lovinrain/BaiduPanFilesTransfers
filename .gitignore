@@ -6,3 +6,5 @@ dist
 .idea
 test.py
 /test.py
+*.txt
+*.txt.lock
